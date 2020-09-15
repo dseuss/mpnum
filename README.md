@@ -27,9 +27,9 @@ To install the latest stable version run
 
     pip install mpnum
 
-If you want to install `mpnum` from source, please run (on Unix)
+If you want to install this fork of `mpnum` from source, please run (on Unix)
 
-    git clone https://github.com/dseuss/mpnum.git
+    git clone https://github.com/moritzlange/mpnum.git
     cd mpnum
     pip install .
 
